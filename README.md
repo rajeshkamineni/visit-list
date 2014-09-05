@@ -3,7 +3,7 @@ visit-list
 
 Visit List iOS Application: 
 
-To know about the what the app does, go to the app store link given below
+To know about what the app does, go to the app store link given below
 
 https://appsto.re/i66k275 
 
